@@ -2,9 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-paiva-81ab79233/)
 
-![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos7junior&show_icons=true&theme=radical)
-
-
 ## Possuo habilidades com as seguintes tecnologias:
 
 <div style="display: inline_block"></br>
